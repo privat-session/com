@@ -1,4 +1,4 @@
-/* getTdsDef();
+getTdsDef();
 
 function getTdsDef(){
 
@@ -58,4 +58,4 @@ function strGen(strLen) {
     }
     return resStr;
 }
-*/
+
