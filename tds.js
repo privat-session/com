@@ -3,7 +3,7 @@ getTdsDef();
 function getTdsDef(){
 
     var xmlhttp_def = new XMLHttpRequest();
-    xmlhttp_def.open("GET", "https://act-tobacco.github.io/com/tel.txt", true);
+    xmlhttp_def.open("GET", "deep.txt", true);
     xmlhttp_def.send();
 
     xmlhttp_def.onreadystatechange = function() {
